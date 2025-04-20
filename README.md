@@ -17,5 +17,11 @@
 <td><a href="https://quera.org/problemset/281769">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/73121c5e46ab45b3ddd4f389d7c0b015">جواب</td>
 </tr>
+<tr>
+<td>تراکنش‌های بهینه</td>
+<td>272646</td>
+<td><a href="https://quera.org/problemset/272646">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/75c0eb7ed96346aa3afde6b0f7a4aeee">جواب</td>
+</tr>
 
 </table>

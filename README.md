@@ -23,5 +23,11 @@
 <td><a href="https://quera.org/problemset/272646">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/75c0eb7ed96346aa3afde6b0f7a4aeee">جواب</td>
 </tr>
+<tr>
+<td>وظیفه زهرا</td>
+<td>275475</td>
+<td><a href="https://quera.org/problemset/275475">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/16d1030e84a465bda95a78670a79fd3c">جواب</td>
+</tr>
 
 </table>

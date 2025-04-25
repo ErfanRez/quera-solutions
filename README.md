@@ -29,5 +29,11 @@
 <td><a href="https://quera.org/problemset/275475">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/16d1030e84a465bda95a78670a79fd3c">جواب</td>
 </tr>
+<tr>
+<td>رمز</td>
+<td>17902</td>
+<td><a href="https://quera.org/problemset/17902">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/c561f59c2abc0cd90ea8d6da60ea5efd">جواب</td>
+</tr>
 
 </table>

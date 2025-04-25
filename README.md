@@ -35,5 +35,10 @@
 <td><a href="https://quera.org/problemset/17902">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/c561f59c2abc0cd90ea8d6da60ea5efd">جواب</td>
 </tr>
+<td>استوری پوینت</td>
+<td>272645</td>
+<td><a href="https://quera.org/problemset/272645">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/99735d7966ba3ce6c340709d82c710c9">جواب</td>
+</tr>
 
 </table>

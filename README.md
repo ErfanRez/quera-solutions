@@ -1,7 +1,7 @@
 # Quera Solutions | جواب سوالات کوئرا
 
-<p>همه ی جواب ها نمره کامل 100 رو گرفته اند.</p>
-<p>اگر میخواین مشارکت داشته باشید بهم <span><a href="mailto:erfan.rezaei.dev@gmail.com">ایمیل</a></span> بزنید</p>
+<!-- <p>همه ی جواب ها نمره کامل 100 رو گرفته اند.</p>
+<p>اگر میخواین مشارکت داشته باشید بهم <span><a href="mailto:erfan.rezaei.dev@gmail.com">ایمیل</a></span> بزنید</p> -->
 
 <br>
 
@@ -30,9 +30,15 @@
 <td><a href="https://quera.org/problemset/17902">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/c561f59c2abc0cd90ea8d6da60ea5efd">جواب</td>
 </tr>
+<tr>
 <td>استوری پوینت</td>
 <td><a href="https://quera.org/problemset/272645">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/99735d7966ba3ce6c340709d82c710c9">جواب</td>
+</tr>
+<tr>
+<td>ریاضیات و مکافات</td>
+<td><a href="https://quera.org/problemset/252329">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/f51a1799fde382e4de5fe7736a93f05e">جواب</td>
 </tr>
 
 </table>

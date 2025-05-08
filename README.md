@@ -1,7 +1,7 @@
 # Quera Solutions | جواب سوالات کوئرا
 
-<!-- <p>همه ی جواب ها نمره کامل 100 رو گرفته اند.</p>
-<p>اگر میخواین مشارکت داشته باشید بهم <span><a href="mailto:erfan.rezaei.dev@gmail.com">ایمیل</a></span> بزنید</p> -->
+<p>همه ی جواب ها نمره کامل 100 رو گرفته اند.</p>
+<!-- <p>اگر میخواین مشارکت داشته باشید بهم <span><a href="mailto:erfan.rezaei.dev@gmail.com">ایمیل</a></span> بزنید</p> -->
 
 <br>
 
@@ -39,6 +39,11 @@
 <td>ریاضیات و مکافات</td>
 <td><a href="https://quera.org/problemset/252329">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/f51a1799fde382e4de5fe7736a93f05e">جواب</td>
+</tr>
+<tr>
+<td>اسم فامیل</td>
+<td><a href="https://quera.org/problemset/10945">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/83c7729a3e331b4ad48f3e6216ce1822">جواب</td>
 </tr>
 
 </table>

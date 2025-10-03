@@ -45,5 +45,10 @@
 <td><a href="https://quera.org/problemset/10945">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/83c7729a3e331b4ad48f3e6216ce1822">جواب</td>
 </tr>
+<tr>
+<td>هندوانه و خربزه</td>
+<td><a href="https://quera.org/problemset/235095">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/31fe95529578a9623f15e80429f404f1">جواب</td>
+</tr>
 
 </table>

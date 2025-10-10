@@ -50,5 +50,10 @@
 <td><a href="https://quera.org/problemset/235095">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/31fe95529578a9623f15e80429f404f1">جواب</td>
 </tr>
+<tr>
+<td>یارکشی</td>
+<td><a href="https://quera.org/problemset/252334">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/757dd6c4ea4ae319e60209a9e78d21b5">جواب</td>
+</tr>
 
 </table>

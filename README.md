@@ -55,5 +55,10 @@
 <td><a href="https://quera.org/problemset/252334">سوال</td>
 <td><a href="https://gist.github.com/ErfanRez/757dd6c4ea4ae319e60209a9e78d21b5">جواب</td>
 </tr>
+<tr>
+<td>زمستان</td>
+<td><a href="https://quera.org/contest/assignments/84126/problems/307456">سوال</td>
+<td><a href="https://gist.github.com/ErfanRez/bfaa5475f0ca7342e0565166eac29a9b">جواب</td>
+</tr>
 
 </table>
